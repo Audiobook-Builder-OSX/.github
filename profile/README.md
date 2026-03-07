@@ -1,4 +1,4 @@
-# Audiobook Builder OSX
+# Audiobook Builder Mac
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/19943b7d0297abec9cb17962bd8fef5023b811dcfdd19870b412e369af09aaf9/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653231312f76342f65312f39312f36312f65313931363138662d383562372d613762382d393632392d3535316133323536373934362f617564696f626f6f6b2d302d302d38352d3232302d302d302d342d302d32782e706e672f3230307832303069622d37352e77656270" width="200" alt="Audiobook Builder icon"/>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aOeL4sVvEjaVOkHMpLhpB3roaIeBVxnXFw&s" alt="Audiobook Builder screenshot"/>
+  <img src="https://eclecticlight.co/wp-content/uploads/2020/05/audiobooks1.jpg" alt="Audiobook Builder screenshot"/>
 </p>
 
 ---
